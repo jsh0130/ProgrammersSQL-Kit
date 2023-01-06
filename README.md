@@ -1,8 +1,9 @@
 # SQL_Study
 
 ## -HackerRank
-  *Medium
-  *HARD
+  * Medium
+  
+  * HARD
 
 
 
