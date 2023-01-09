@@ -3,7 +3,7 @@
 ## -HackerRank
   * Medium
   
-  * HARD
+  * Hard
 
 
 
