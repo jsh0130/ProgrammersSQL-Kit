@@ -1,0 +1,10 @@
+https://school.programmers.co.kr/learn/courses/30/lessons/133026
+
+
+~~~
+SELECT I.ingredient_type, sum(F.total_order) as total_order
+FROM first_half AS F, icecream_info AS I
+WHERE I.flavor = F.flavor
+GROUP BY ingredient_type
+ORDER BY total_order ASC
+~~~
